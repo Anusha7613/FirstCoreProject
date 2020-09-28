@@ -80,5 +80,9 @@ namespace FirstCoreProject.Controllers
         {
             return View();
         }
+        public IActionResult Anu()
+        {
+            return View();
+        }
     }
 }
